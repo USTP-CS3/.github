@@ -7,5 +7,3 @@ The Computer Science Student Society (CS³) aims to be recognized as an impactfu
 ### MISSION
 
 The Computer Science Student Society (CS³) assists members in becoming capable leaders in the field of computing by providing them with the knowledge and expertise required to succeed in academics and careers. Excellence drives positive change and creates a brighter future for the computer science community.
-
-![image](https://github.com/USTP-CS3/.github/assets/26486389/81053cb2-571a-4e92-9cd8-8a07d0bdf464)
